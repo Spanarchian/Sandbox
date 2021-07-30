@@ -7,10 +7,10 @@
 
 
 
-def search_exchange(customer_id):
+def complete_exchange(customer_id, job_id):
     pass    
     
-def _process_work():
+def process_exchange():
     pass
 
 

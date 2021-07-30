@@ -2,14 +2,9 @@ import time, uuid, logging
 from json import dumps, loads
 from typing import List, Optional
 from pydantic import BaseModel
-from neo4j import GraphDatabase
-from neo4j.exceptions import ServiceUnavailable
-from py2neo import Graph
-import os
-from dotenv import load_dotenv
-load_dotenv()
+from helper.graph import get_gdb
 
-graph = Graph("bolt://localhost:7687")
+graph = get_gdb('prod')
 
 class Client(BaseModel):
     id : str

@@ -1,0 +1,242 @@
+{
+    "Company1": {
+        "id": "8d376b71-a505-4c40-81f7-a2638c0c652e",
+        "Username": "Company1",
+        "CompanyName": "Company1",
+        "postcodeCovered": "DT6, DT9, DT10",
+        "serviceProvided": "8,  5, 2",
+        "Days_worked": "1, 5"
+    },
+    "Company2": {
+        "id": "8c316240-62a1-44a9-bdae-609581befae7",
+        "Username": "Company2",
+        "CompanyName": "Company2",
+        "postcodeCovered": "DT9, DT3, DT2",
+        "serviceProvided": "5,  2, 1",
+        "Days_worked": "2, 7"
+    },
+    "Company3": {
+        "id": "28f52684-831a-4019-b895-e3321662d550",
+        "Username": "Company3",
+        "CompanyName": "Company3",
+        "postcodeCovered": "DT9, DT6, DT4",
+        "serviceProvided": "5,  4, 8",
+        "Days_worked": "3, 6"
+    },
+    "Company4": {
+        "id": "435d2282-3cb7-4b2e-89e3-e7bf5165de05",
+        "Username": "Company4",
+        "CompanyName": "Company4",
+        "postcodeCovered": "DT5, DT9, DT2",
+        "serviceProvided": "4,  8, 7",
+        "Days_worked": "3, 5"
+    },
+    "Company5": {
+        "id": "58e39f92-5277-4e62-a024-8a262ccd48de",
+        "Username": "Company5",
+        "CompanyName": "Company5",
+        "postcodeCovered": "DT9, DT4, DT10",
+        "serviceProvided": "4,  1, 7",
+        "Days_worked": "2, 6"
+    },
+    "Company6": {
+        "id": "30f5b5b2-3290-46b4-95e2-b2b86fe710d4",
+        "Username": "Company6",
+        "CompanyName": "Company6",
+        "postcodeCovered": "DT7, DT9, DT3",
+        "serviceProvided": "7,  5, 3",
+        "Days_worked": "1, 5"
+    },
+    "Company7": {
+        "id": "9b8c2c82-62dd-440d-824c-4818b1eca70f",
+        "Username": "Company7",
+        "CompanyName": "Company7",
+        "postcodeCovered": "DT9, DT3, DT11",
+        "serviceProvided": "6,  5, 4",
+        "Days_worked": "1, 4"
+    },
+    "Company8": {
+        "id": "03e1705f-6c27-4075-9088-d926ee06a86b",
+        "Username": "Company8",
+        "CompanyName": "Company8",
+        "postcodeCovered": "DT3, DT2, DT1",
+        "serviceProvided": "1,  8, 3",
+        "Days_worked": "2, 4"
+    },
+    "Company9": {
+        "id": "d0935091-bba0-46cd-ba94-63bddb507cd0",
+        "Username": "Company9",
+        "CompanyName": "Company9",
+        "postcodeCovered": "DT5, DT3, DT8",
+        "serviceProvided": "1,  8, 2",
+        "Days_worked": "3, 4"
+    },
+    "Company10": {
+        "id": "095ec563-3a0f-4bff-95c1-b4c1ca99716d",
+        "Username": "Company10",
+        "CompanyName": "Company10",
+        "postcodeCovered": "DT2, DT1, DT4",
+        "serviceProvided": "1,  7, 4",
+        "Days_worked": "1, 5"
+    },
+    "Company11": {
+        "id": "d44edc20-b41d-4bc8-8369-d3ea68f59c9b",
+        "Username": "Company11",
+        "CompanyName": "Company11",
+        "postcodeCovered": "DT11, DT2, DT6",
+        "serviceProvided": "8,  5, 3",
+        "Days_worked": "3, 5"
+    },
+    "Company12": {
+        "id": "e06a7aca-5f5a-4df3-bb1a-1b7bab79c8c1",
+        "Username": "Company12",
+        "CompanyName": "Company12",
+        "postcodeCovered": "DT4, DT5, DT9",
+        "serviceProvided": "4,  5, 8",
+        "Days_worked": "2, 5"
+    },
+    "Company13": {
+        "id": "9385c75f-f986-4682-9705-27338bdefedf",
+        "Username": "Company13",
+        "CompanyName": "Company13",
+        "postcodeCovered": "DT5, DT9, DT6",
+        "serviceProvided": "1,  5, 8",
+        "Days_worked": "1, 4"
+    },
+    "Company14": {
+        "id": "8bb08174-2df2-4b68-8ae9-6a789a625721",
+        "Username": "Company14",
+        "CompanyName": "Company14",
+        "postcodeCovered": "DT9, DT10, DT11",
+        "serviceProvided": "1,  6, 3",
+        "Days_worked": "3, 7"
+    },
+    "Company15": {
+        "id": "60fbc861-7ca3-4918-8dd9-3fed979beb3a",
+        "Username": "Company15",
+        "CompanyName": "Company15",
+        "postcodeCovered": "DT10, DT2, DT3",
+        "serviceProvided": "2,  7, 6",
+        "Days_worked": "3, 6"
+    },
+    "Company16": {
+        "id": "98c90ebf-de6b-4f19-b837-50ade75a6cd8",
+        "Username": "Company16",
+        "CompanyName": "Company16",
+        "postcodeCovered": "DT6, DT7, DT1",
+        "serviceProvided": "4,  5, 7",
+        "Days_worked": "2, 6"
+    },
+    "Company17": {
+        "id": "75009c3b-0cfd-4f57-af26-ea75172ffe0b",
+        "Username": "Company17",
+        "CompanyName": "Company17",
+        "postcodeCovered": "DT11, DT1, DT4",
+        "serviceProvided": "2,  5, 3",
+        "Days_worked": "3, 4"
+    },
+    "Company18": {
+        "id": "ab9bae58-35b9-4d80-9d1a-10f13b608ffa",
+        "Username": "Company18",
+        "CompanyName": "Company18",
+        "postcodeCovered": "DT4, DT7, DT4",
+        "serviceProvided": "4,  8, 5",
+        "Days_worked": "1, 5"
+    },
+    "Company19": {
+        "id": "98cace0f-b610-491d-8cdc-a3bca794aae2",
+        "Username": "Company19",
+        "CompanyName": "Company19",
+        "postcodeCovered": "DT2, DT10, DT6",
+        "serviceProvided": "6,  3, 5",
+        "Days_worked": "2, 7"
+    },
+    "Company20": {
+        "id": "33418bfe-c6a4-4a6e-92cb-c60803dd9a66",
+        "Username": "Company20",
+        "CompanyName": "Company20",
+        "postcodeCovered": "DT2, DT11, DT9",
+        "serviceProvided": "5,  3, 6",
+        "Days_worked": "3, 5"
+    },
+    "Company21": {
+        "id": "158cd4ed-ed65-40f5-a4dd-d2ffad7ac6fb",
+        "Username": "Company21",
+        "CompanyName": "Company21",
+        "postcodeCovered": "DT5, DT2, DT7",
+        "serviceProvided": "5,  2, 3",
+        "Days_worked": "1, 7"
+    },
+    "Company22": {
+        "id": "ee1893f6-ddcd-4adb-94e2-c81c1a773574",
+        "Username": "Company22",
+        "CompanyName": "Company22",
+        "postcodeCovered": "DT4, DT1, DT3",
+        "serviceProvided": "2,  1, 6",
+        "Days_worked": "2, 4"
+    },
+    "Company23": {
+        "id": "906ae253-d4af-4842-b851-f4a42dbf72c0",
+        "Username": "Company23",
+        "CompanyName": "Company23",
+        "postcodeCovered": "DT9, DT8, DT5",
+        "serviceProvided": "1,  2, 3",
+        "Days_worked": "3, 7"
+    },
+    "Company24": {
+        "id": "15ff8240-02ef-483f-a03f-6a368a06840c",
+        "Username": "Company24",
+        "CompanyName": "Company24",
+        "postcodeCovered": "DT9, DT8, DT7",
+        "serviceProvided": "1,  6, 7",
+        "Days_worked": "2, 6"
+    },
+    "Company25": {
+        "id": "20d0bce8-245f-4e0f-a166-3536608f4972",
+        "Username": "Company25",
+        "CompanyName": "Company25",
+        "postcodeCovered": "DT8, DT6, DT5",
+        "serviceProvided": "3,  4, 6",
+        "Days_worked": "1, 7"
+    },
+    "Company26": {
+        "id": "9aa8b0a3-3e55-410e-b010-9787b1cd3d27",
+        "Username": "Company26",
+        "CompanyName": "Company26",
+        "postcodeCovered": "DT9, DT11, DT1",
+        "serviceProvided": "2,  8, 3",
+        "Days_worked": "1, 5"
+    },
+    "Company27": {
+        "id": "2c7ede9e-9c64-4509-9c45-670390e76f07",
+        "Username": "Company27",
+        "CompanyName": "Company27",
+        "postcodeCovered": "DT4, DT9, DT8",
+        "serviceProvided": "8,  1, 5",
+        "Days_worked": "1, 4"
+    },
+    "Company28": {
+        "id": "5e4acc7c-f3ac-46a5-8076-2e96c600ef36",
+        "Username": "Company28",
+        "CompanyName": "Company28",
+        "postcodeCovered": "DT2, DT1, DT4",
+        "serviceProvided": "4,  1, 5",
+        "Days_worked": "2, 7"
+    },
+    "Company29": {
+        "id": "4aee97f0-2e27-4f49-92bb-8a32904ec76b",
+        "Username": "Company29",
+        "CompanyName": "Company29",
+        "postcodeCovered": "DT10, DT1, DT11",
+        "serviceProvided": "7,  1, 2",
+        "Days_worked": "2, 7"
+    },
+    "Company30": {
+        "id": "ba87568a-3a52-4deb-9453-7503d305a86b",
+        "Username": "Company30",
+        "CompanyName": "Company30",
+        "postcodeCovered": "DT2, DT10, DT9",
+        "serviceProvided": "4,  6, 7",
+        "Days_worked": "3, 7"
+    }
+}
